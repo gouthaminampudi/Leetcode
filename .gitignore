@@ -1,0 +1,15 @@
+target/**
+target
+test-output
+test-output/**
+
+
+.classpath
+
+.project
+.springBeans
+.prefs
+.settings*
+.settings/*
+.metadata/
+/debug.log
