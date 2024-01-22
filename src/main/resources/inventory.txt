@@ -1,0 +1,10 @@
+name,price,department,id,stock
+chocolate cake,5,bakery,1,240
+chicken,7,meat,1,500
+lamb,10,meat,2,399
+vanilla cake,4,bakery,2,389
+milk,3,diary,1,1000
+mozarella cheese,6,diary,2,597
+black forest cake,4,bakery,3,55
+beef,5,meat,3,5500
+buttermilk,4,diary,3,890

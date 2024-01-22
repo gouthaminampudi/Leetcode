@@ -12,6 +12,8 @@ public class AriTest {
 		String string1 = "0404"; // and 
 		String string2 = "04 04";
 		System.out.print(string1 == string2);
+		System.out.print(18/10);
+		System.out.print(18%10);
 
 	}
 
