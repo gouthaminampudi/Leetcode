@@ -25,7 +25,7 @@ public class RegexEmailsTest {
 	@Test
 	public void testThreads() {
 		ExecutorService service = Executors.newCachedThreadPool();
-		int[] arr = new int[10000]; 
+		final int[] arr = new int[10000]; 
 		for(int i=0;i<10000;i++) {
 			final int index = i;
 			final int num = i;
